@@ -1,0 +1,7 @@
+{
+  "name": "A Good Day in the Village - English Audio Story",
+  "description": "An interactive A2 English learning audio reader featuring warm teacher narration with Gemini TTS, synchronized text, and vocabulary aids.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
